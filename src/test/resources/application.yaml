@@ -1,0 +1,13 @@
+server:
+  port: 8060
+
+logging:
+  level:
+    root: INFO
+    com.agilesolutions.mcp: DEBUG
+    org.springframework.ai: DEBUG
+
+twelvedata:
+  api:
+    url: https://api.twelvedata.com/
+    key: demo
