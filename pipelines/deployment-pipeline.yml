@@ -69,7 +69,7 @@ stages:
         displayName: Deploy
         pool:
           vmImage: $(vmImageName)
-        environment: 'findata'
+        environment: 'stockmcpserver'
         strategy:
           runOnce:
             deploy:
