@@ -1,5 +1,5 @@
 apiVersion: v2
-name: findata
-description: A Helm chart for deploying the findata AI chatbot
+name: stockmcpserver
+description: A Helm chart for deploying the MCP server with financial stock tools
 version: 1.0.0
 appVersion: '@appVersion@'
